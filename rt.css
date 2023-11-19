@@ -1,0 +1,14 @@
+#disbox{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+}
+.h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+
+}
+.para1{
+    font-family: Arial, Helvetica, sans-serif;
+}

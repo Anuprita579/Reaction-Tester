@@ -10,7 +10,7 @@ var start = new Date().getTime();
         function move(){
             var left=Math.random()*300;
             var top=Math.random()*300;
-            var wh=((Math.random()*500) + 100);
+            var wh=((Math.random()*300) + 100);
             document.getElementById("disbox").style.left = left + 'px';
             document.getElementById("disbox").style.top = top + 'px';
             document.getElementById("disbox").style.width = wh + 'px';
